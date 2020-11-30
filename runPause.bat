@@ -1,0 +1,4 @@
+
+python wshogi.py
+
+pause
