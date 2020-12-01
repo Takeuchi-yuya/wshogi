@@ -40,4 +40,9 @@
   ```
   で入ると思います。
 
-  
+
+実行は、
+
+```Python
+  python wshogi.py
+```
